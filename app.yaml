@@ -63,7 +63,6 @@ metadata:
   name: helloweb
   namespace: acm-sample-app
 spec:
-  host: helloweb.apps.cluster-kvl6m.kvl6m.sandbox2474.opentlc.com
   port:
     targetPort: 8080
   tls:
